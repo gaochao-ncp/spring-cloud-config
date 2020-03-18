@@ -1,2 +1,2 @@
 git:
-   uri: git@github.com:gaochao-ncp/spring-cloud-config.git 
+   uri: "git@github.com:gaochao-ncp/spring-cloud-config.git version=1" 
